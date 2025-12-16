@@ -6,7 +6,6 @@ https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt
 https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
 https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
 https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt
-https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt
 https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
 https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt
 https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
